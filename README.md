@@ -1,10 +1,8 @@
  <h1>Admin Tasks</h1>
  <p>A web application to Admin, Users to set Tasks</p>
-    <h2> Features</h2>
-   
-    <ul>
-       
-        <li>Admin can login </li>
+ <h2> Features</h2>
+ <ul>
+    <li>Admin can login </li>
         <li>set tasks to users</li>
         <li>can delete tasks</li>
         <li>can delete user if he doesnot have tasks</li>
