@@ -1,8 +1,7 @@
  <h1>Admin Tasks</h1>
-   <hr>
-   <p>A web application to Admin, Users to set Tasks</p>
+ <p>A web application to Admin, Users to set Tasks</p>
     <h2> Features</h2>
-    <hr>
+   
     <ul>
        
         <li>Admin can login </li>
@@ -12,9 +11,9 @@
     </ul>
     
   
-    <br>
+  
    <h2>Technologies & Packages</h2> 
-   <hr>
+
    <p>Project is created with:</p>
    <ul>
     <li>Angular 14</li>
@@ -26,9 +25,9 @@
     <li>Spinner</li>
     <li>Translate</li>
    </ul>  
-   <br> 
+ 
    <h2>Setup</h2>
-   <hr>
+  
    <p>To run this project, install it locally using npm:</p>
    <p>cd ./admin</p>
    <p>npm install</p>
